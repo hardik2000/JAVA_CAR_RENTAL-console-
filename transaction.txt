@@ -1,0 +1,327 @@
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Mini
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:4
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:DL-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Kamal Dass
+	PHONENO							:1478965230
+	LICENSENO						:NC12563478
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:retyui
+
+	TO		:ghjkl'
+
+	VIA		:hjkl
+
+
+	TOTAL FARE GENERATED		:Rs. 594
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:deep Singh
+	PHONENO							:1254712542
+	LICENSENO						:ND14523698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:s
+
+	TO		:s
+
+
+	TOTAL FARE GENERATED		:Rs. 298
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:deep Singh
+	PHONENO							:1254712542
+	LICENSENO						:ND14523698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:vnit
+
+	TO		:ajni
+
+	VIA		:bajaj
+
+
+	TOTAL FARE GENERATED		:Rs. 871
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:deep Singh
+	PHONENO							:1254712542
+	LICENSENO						:ND14523698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:vnit
+
+	TO		:ajni
+
+
+	TOTAL FARE GENERATED		:Rs. 253
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2012
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:DIESEL
+	COLOR OF THE BODY					:RED
+	PLATE NUMBER						:UK-42-MV-1233
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Kamal Dass
+	PHONENO							:1478965230
+	LICENSENO						:NC12563478
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:nagpur
+
+	TO		:andghra
+
+
+	TOTAL FARE GENERATED		:Rs. 342
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Kamal Dass
+	PHONENO							:1478965230
+	LICENSENO						:NC12563478
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:a
+
+	TO		:a
+
+
+	TOTAL FARE GENERATED		:Rs. 252
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:deep Singh
+	PHONENO							:1254712542
+	LICENSENO						:ND14523698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:j
+
+	TO		:j
+
+
+	TOTAL FARE GENERATED		:Rs. 431
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2012
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:DIESEL
+	COLOR OF THE BODY					:RED
+	PLATE NUMBER						:UK-42-MV-1233
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Kamal Dass
+	PHONENO							:1478965230
+	LICENSENO						:NC12563478
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:d
+
+	TO		:d
+
+	VIA		:d
+
+
+	TOTAL FARE GENERATED		:Rs. 522
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Rahul Meet
+	PHONENO							:7011456987
+	LICENSENO						:MC12547896
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:d
+
+	TO		:f
+
+	VIA		:g
+
+
+	TOTAL FARE GENERATED		:Rs. 444
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2012
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:DIESEL
+	COLOR OF THE BODY					:RED
+	PLATE NUMBER						:UK-42-MV-1233
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Arjun Singh
+	PHONENO							:1254789630
+	LICENSENO						:ABG5223698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:g
+
+	TO		:'h
+
+
+	TOTAL FARE GENERATED		:Rs. 327
+--------------------------* take the screenshot for further details--------------------------
+
+---------------------------FINAL DETAILS OF BOOKING ARE : BOOKING CONFIRMED------------------------
+----------------------------------------------------------------
+	THE DETAILS ARE AS FOLLOWS	: 
+
+	TYPE							:Micro
+	MFG YEAR						:2009
+	NO OF PERSONS ALLOWED					:3
+	FUEL TYPE						:PETROL
+	COLOR OF THE BODY					:BLACK
+	PLATE NUMBER						:MH-32-AV-3243
+
+
+----------------------------------------------------------------
+	THE DETAILS OF THE DRIVER ARE AS FOLLOWS	: 
+	NAME							:Arjun Singh
+	PHONENO							:1254789630
+	LICENSENO						:ABG5223698
+
+------------------------------------------------------------------------
+	FINAL  DETAILS  ARE  :
+
+	FROM		:a
+
+	TO		:a
+
+
+	TOTAL FARE GENERATED		:Rs. 366
+--------------------------* take the screenshot for further details--------------------------
